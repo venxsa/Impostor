@@ -4,7 +4,7 @@
 [![CI](https://github.com/Impostor/Impostor/workflows/CI/badge.svg)](https://github.com/Impostor/Impostor/actions)
 
 Impostor is the first working **Among Us** private server, written in C#.
-
+.
 As Among Us is actively updated, you may want to use the latest build from the master branch if you want to play on the latest version of Among Us that supported by Impostor.
 
 If you want to play on an older version of Among Us, you can download old releases from [here](https://github.com/Impostor/Impostor/releases/), however these versions are less supported.
